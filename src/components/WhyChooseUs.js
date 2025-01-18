@@ -12,7 +12,7 @@ const WhyChooseUs = () => (
 
     <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
       <div class="why-box">
-        <h3>Why Choose Yummy</h3>
+        <h3>Why Choose Little Lemon</h3>
         <p>
         Our restaurant is a haven for food lovers, offering a delightful fusion of traditional and modern cuisines. We pride ourselves on delivering an exceptional dining experience with a focus on fresh, high-quality ingredients, innovative recipes, and a welcoming atmosphere. Whether you're here for a quick bite, a family gathering, or a romantic evening, our diverse menu and attentive service make every visit memorable.
 
