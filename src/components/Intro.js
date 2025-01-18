@@ -15,7 +15,7 @@ function Intro() {
             <p data-aos="fade-up" data-aos-delay="100">Crafted with passion, served with love</p>
             <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
               <a href="#book-a-table" class="btn-get-started" style={{ textDecoration: 'none' }}>Book a Table</a>
-              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+              <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
             </div>
           </div>
           <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
