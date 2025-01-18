@@ -32,7 +32,7 @@ export default function NavbarComponent() {
         className="me-2"
         aria-label="Search"
       />
-      <Button variant="outline-danger">Search</Button>
+      <Button variant="outline-warning">Search</Button>
     </Form>
   </Navbar.Collapse>
 </Container>

@@ -26,7 +26,7 @@ export default function Booking(){
     <section id="book-a-table" class="book-a-table section">
 
       <div class="container section-title" data-aos="fade-up">
-      
+
         <p><span>Book Your</span> <span class="description-title">Stay With Us<br/></span></p>
         <br/>
 
@@ -67,7 +67,7 @@ export default function Booking(){
               <br/>
               <div className="d-grid gap-2">
                 <button
-                  className={`btn btn-danger position-relative ${
+                  className={`btn btn-success position-relative ${
                     isSubmitting ? 'loading' : ''
                   } ${isCompleted ? 'btn-success' : ''}`}
                   onClick={handleSubmit}
