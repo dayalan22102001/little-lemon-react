@@ -38,5 +38,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "homepage": "https://dayalan22102001.github.io/little-lemon-react"
 }
