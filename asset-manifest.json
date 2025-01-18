@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/little-lemon-react/static/css/main.cc563320.css",
-    "main.js": "/little-lemon-react/static/js/main.6d4cdb95.js",
+    "main.css": "/little-lemon-react/static/css/main.c0896d75.css",
+    "main.js": "/little-lemon-react/static/js/main.33e28a01.js",
     "static/js/488.66a58736.chunk.js": "/little-lemon-react/static/js/488.66a58736.chunk.js",
     "static/media/stats-bg.jpg": "/little-lemon-react/static/media/stats-bg.80e2264dc486d45b803e.jpg",
     "static/media/hero-img.png": "/little-lemon-react/static/media/hero-img.c2d55dfac66bc8e9a970.png",
@@ -18,12 +18,12 @@
     "static/media/menu-item-5.png": "/little-lemon-react/static/media/menu-item-5.dcfe20244e7538076d5c.png",
     "static/media/Asset 16@4x.png": "/little-lemon-react/static/media/Asset 16@4x.d4cae6fac8384c2dae04.png",
     "index.html": "/little-lemon-react/index.html",
-    "main.cc563320.css.map": "/little-lemon-react/static/css/main.cc563320.css.map",
-    "main.6d4cdb95.js.map": "/little-lemon-react/static/js/main.6d4cdb95.js.map",
+    "main.c0896d75.css.map": "/little-lemon-react/static/css/main.c0896d75.css.map",
+    "main.33e28a01.js.map": "/little-lemon-react/static/js/main.33e28a01.js.map",
     "488.66a58736.chunk.js.map": "/little-lemon-react/static/js/488.66a58736.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc563320.css",
-    "static/js/main.6d4cdb95.js"
+    "static/css/main.c0896d75.css",
+    "static/js/main.33e28a01.js"
   ]
 }
