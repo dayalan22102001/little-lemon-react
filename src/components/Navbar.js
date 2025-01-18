@@ -5,16 +5,23 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import '../App.css';
+import { useState } from 'react';
 
 export default function NavbarComponent() {
+  const [expanded, setExpanded] = useState(false);
+
+  const toggleNavbar = () => {
+    setExpanded(!expanded);
+  }
+
   return (
-<Navbar bg="primary" data-bs-theme="dark" className="bg-body-tertiary" fixed="top">
+<Navbar bg="primary" data-bs-theme="dark" className="bg-body-tertiary" fixed="top" expanded={expanded} expand="lg">
 <Container fluid>
   <Navbar.Brand href="#"><img src = {logo} style={{ height: '50px', width: 'auto' }}></img></Navbar.Brand>
-  <Navbar.Toggle aria-controls="navbarScroll" />
-  <Navbar.Collapse id="navbarScroll">
+  <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggleNavbar} />
+  <Navbar.Collapse id="basic-navbar-nav">
     <Nav
-      className="me-auto my-2 my-lg-0"
+      className="ms-auto"
       style={{ maxHeight: '100px' }}
       navbarScroll >
       <Nav.Link href="#menu">Menu</Nav.Link>
